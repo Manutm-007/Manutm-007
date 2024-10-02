@@ -1,5 +1,5 @@
 <h3 align="center">Connect with me:</h3>
-<div align = 'center'><img src = "[https://cdn.scratch.mit.edu/static/site/users/avatars/240/7856.png](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.clipartbest.com%2Fcliparts%2F9iz%2Fxgn%2F9izxgnGAT.gif&f=1&nofb=1&ipt=c0e9e2d7c61fa9d83b77d930b9051a28f15a9381d79bf373456a6c0a24782bf6&ipo=images)"></p></div>
+<div align = 'center'><img src = "https://www.clipartbest.com/cliparts/9iz/xgn/9izxgnGAT.gif"></p></div>
 <p align="center">
 </p>
 
