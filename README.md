@@ -1,5 +1,5 @@
 <h3 align="center">Connect with me:</h3>
-<p src = "https://cdn.scratch.mit.edu/static/site/users/avatars/240/7856.png")>
+<p src = "https://cdn.scratch.mit.edu/static/site/users/avatars/240/7856.png"></p>
 <p align="center">
 </p>
 
