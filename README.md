@@ -1,5 +1,5 @@
 <h3 align="center">Connect with me:</h3>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.scratch.mit.edu%2Fstatic%2Fsite%2Fusers%2Favatars%2F240%2F7856.png&f=1&nofb=1&ipt=f8e91be1f4ba0bd187683a4086d6cf86a396ab18326abe222f85533e5508e7ca&ipo=images)" alt="android" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg]([https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.scratch.mit.edu%2Fstatic%2Fsite%2Fusers%2Favatars%2F240%2F7856.png&f=1&nofb=1&ipt=f8e91be1f4ba0bd187683a4086d6cf86a396ab18326abe222f85533e5508e7ca&ipo=images](https://cdn.scratch.mit.edu/static/site/users/avatars/240/7856.png))" alt="android" width="40" height="40"/> </a> 
 
 <p align="center">
 </p>
