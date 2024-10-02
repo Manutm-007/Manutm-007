@@ -1,5 +1,5 @@
 <h3 align="center">Connect with me:</h3>
-
+![Mi GIF](https://cdn.scratch.mit.edu/static/site/users/avatars/240/7856.png)
 <p align="center">
 </p>
 
